@@ -1,1 +1,1 @@
-# matrix-calculator
+# System of lineatr equations calculator
