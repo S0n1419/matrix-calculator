@@ -1,1 +1,1 @@
-# System of lineatr equations calculator
+# System of linear equations calculator
